@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;700&family=MuseoModerno:wght@700&display=swap');
+
+body {
+    background-color:  #edf7ff;
+}
+
+.museom-blue {
+    font-family: 'MuseoModerno' ,sans-serif ;
+    font-weight:  700 ; 
+    font-size: 117px;
+    color: #0a2ff1;
+    margin-bottom: 0px;
+    
+}
+
+.subtittle {
+    font-family: 'asap' , sans-serif;
+    font-weight: 400 ;
+    font-size: 52px;
+    color: #0a2ff1;
+    margin-top: -40px;
+}
+
+.parraf {
+    font-family: 'asap', sans-serif;
+    font-weight: 400;
+    font-size: 33px;
+    color: #04146c;
+}
+
+.museom-bluemedium {
+    font-family: 'MuseoModerno';
+    font-size: 48px;
+    color: #0a2ff1;
+    margin-top: 800px;
+}
+
+.mendoza {
+    font-family: 'MuseoModerno' , cursive;
+    font-size: 198px;
+    color: #8a9af1 ;
+    margin-bottom: -15px;
+}
+
+.parff2 {
+    font-family: 'asap', sans-serif;
+    font-weight: 700;
+    font-size: 33px;
+    color: #04146c;
+    margin-top: 25px;
+}
+
+div {
+    margin-left: 5%;
+}
+
+
+
+
